@@ -10,5 +10,9 @@
   {
     "name":"Owl Hub",
     "script":"https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
-  }
+  },
+  {
+    "name":"Infinite Yield",
+    "script":"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+  },
 ]
